@@ -6,5 +6,6 @@ func main() {
 	fmt.Println("hi")
 
 	var m int
+	m = 5
 
 }
